@@ -1,0 +1,10 @@
+
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+
+
+div.portfolioObject:hover {
+    -webkit-box-shadow: 8px 8px 4px 0px rgba(35,111,231,1);
+}
